@@ -4,3 +4,4 @@ faiss-cpu
 streamlit
 streamlit-chat
 tiktoken
+pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
